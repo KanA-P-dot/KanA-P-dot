@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Alex (Kan-à-Pé)
 
-<!--
-**KanA-P-dot/KanA-P-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en Pré-Master à Epitech Lyon  
+🚀 Passionné par le développement web, l’automatisation et la finance 
+🔧 Stack actuelle : React, Symfony, MariaDB, Tailwind, Docker  
+📫 Contact : [LinkedIn](https://www.linkedin.com/in/alexandre-mandon-81002a250/) | kanape@epitech.eu  
 
-Here are some ideas to get you started:
+## 🧠 Projets en cours
+-  **Tryhackme** – Apprentissage du hacking 
+- 🤖 **Bot de trading** – Connexion MT4 + automatisation (Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> "Toujours curieux d’apprendre de nouvelles choses et d'améliorer mes projets."
+
