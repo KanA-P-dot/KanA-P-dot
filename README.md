@@ -3,7 +3,7 @@
 🎓 Étudiant en Pré-Master à Epitech Lyon  
 🚀 Passionné par le développement web, l’automatisation et la finance 
 🔧 Stack actuelle : React, Symfony, MariaDB, Tailwind, Docker  
-📫 Contact : [LinkedIn](https://www.linkedin.com/in/alexandre-mandon-81002a250/) | kanape@epitech.eu  
+📫 Contact : [LinkedIn](https://www.linkedin.com/in/alexandre-mandon-81002a250/) | alexandre.mandon@epitech.eu  
 
 ## 🧠 Projets en cours
 -  **Tryhackme** – Apprentissage du hacking 
