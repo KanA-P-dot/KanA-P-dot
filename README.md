@@ -5,9 +5,11 @@
 🔧 Stack actuelle : C#, React, Symfony, MariaDB, Tailwind, Docker  
 📫 Contact : [LinkedIn](https://www.linkedin.com/in/alexandre-mandon-81002a250/) | alexandre.mandon@epitech.eu  
 
-## 🧠 Projets en cours
+##  Projets en cours
 -  **T-DEV** – Développement d'un erp (pointeuse et gestio des employés) 
 -  **Bot de trading** – Connexion MT4 + automatisation (Python)
+-  Numexis: développement solution IA
+-  PAffToChad: développement site liste d'objectif pour le développement personnel
 - Développement d'une application d'inspection de bâtiment
 
 ---
